@@ -4,6 +4,7 @@
 #include <boost\math\constants\constants.hpp>
 #include <math.h>
 
+
 class Circle :
 	public Shape
 {
